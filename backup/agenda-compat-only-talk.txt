@@ -1,0 +1,34 @@
+10:30
+    Next generation web assets (by Emiliano De Matteis)
+    Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays (by Aygul Zagidullina)
+    Guida intergalattica per cercatori di lavoro (by Valentina Carrirolo, Clara Canova)
+    Designing for wicked challenges (by Panayotis Tzinis)
+11:20
+    Library development: open source your ideas! (by Marco Gomiero, Andrea Maglie)
+    ML Kit for Mobile Developers (by Laura Morinigo)
+    Develop a product on GCP (by Francesca Stagnaro)
+12:10
+    Introducing WorkManager (by Pietro Maggi)
+    Want a Slice? (by Kaan Mamikoglu)
+    The power of Kotlin @Annotations (by Giorgio Antonioli)
+13:50
+    SOLID principles in practice: the clean architecture (by Fabio Collini)
+    Image Recognition with TensorFlow using Deep Learning (by Elia Rigo)
+    Firebase Cloud Firestore: Deep Dive (by Kaan Mamikoglu)
+14:40
+    ARCore is Magic (by Michelantonio Trizio)
+    Behind the curtains: how Photos™ works (by Roberto Orgiu)
+    Il lato oscuro del Deep Learning (by Simone Scardapane)
+15:40
+    Motion Layout: easy animations for everyone! (by Boris D'Amato)
+    AbracaGAN: Introduction to the almost magical world of GANs (by Michele De Simoni)
+    La Morte Nera, e se fosse prototipizzata con Firebase e React? (by Michel Murabito)
+    Introduction to SceneForm (by Michelantonio Trizio)
+16:30
+    Android JetPack: Easy navigation with the new Navigation Controller (by Leonardo Pirro)
+    Creating ML-powered applications (by Buşra Deniz Akın)
+    Come gestire una campagna pubblicitaria con AdWords - guida di sopravvivenza (by Mattia Piccirillo)
+17:20
+    How to become an Android dev starting from iOS (and vice versa) (by Giuseppe Filograno)
+    The (build) time of my life (by Lorenzo Quiroli)
+    Digital records evidence - Oracles and the Bitcoin blockchain (by Alessandro Aglietti)
