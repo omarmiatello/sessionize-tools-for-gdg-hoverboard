@@ -39,4 +39,4 @@ fun main() {
 
 ### Used by:
 - [GDG Milano](https://www.meetup.com/it-IT/GDG-Milano/)
-   - [DevFest Milano 2018](https://devfest2018.gdgmilano.it/) | [https://github.com/gdgmilano/devfest2018/tree/devfest2018/tools-data-sessionize]()
+   - [DevFest Milano 2018](https://devfest2018.gdgmilano.it/) | [https://github.com/gdgmilano/devfest2018/tree/devfest2018/tools-data-sessionize](https://github.com/gdgmilano/devfest2018/tree/devfest2018/tools-data-sessionize)
