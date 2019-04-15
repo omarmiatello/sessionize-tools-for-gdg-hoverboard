@@ -1,8 +1,8 @@
-package com.github.jacklt.hoverboard
+package com.github.omarmiatello.hoverboard
 
 import com.beust.klaxon.Json
 import com.beust.klaxon.Klaxon
-import com.github.jacklt.HOVERBOARD_DAY1
+import com.github.omarmiatello.HOVERBOARD_DAY1
 import java.io.StringReader
 
 private val klaxon = Klaxon()

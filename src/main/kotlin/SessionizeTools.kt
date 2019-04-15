@@ -1,8 +1,8 @@
-package com.github.jacklt
+package com.github.omarmiatello
 
-import com.github.jacklt.hoverboard.Hoverboard
-import com.github.jacklt.sessionize.Sessionize
-import com.github.jacklt.utils.makeSlug
+import com.github.omarmiatello.hoverboard.Hoverboard
+import com.github.omarmiatello.sessionize.Sessionize
+import com.github.omarmiatello.utils.makeSlug
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import java.io.File

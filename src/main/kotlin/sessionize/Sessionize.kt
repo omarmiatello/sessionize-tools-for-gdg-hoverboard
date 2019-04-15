@@ -1,4 +1,4 @@
-package com.github.jacklt.sessionize
+package com.github.omarmiatello.sessionize
 
 import com.beust.klaxon.Json
 import com.beust.klaxon.Klaxon

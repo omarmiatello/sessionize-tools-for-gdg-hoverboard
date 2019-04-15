@@ -1,4 +1,4 @@
-package com.github.jacklt.utils
+package com.github.omarmiatello.utils
 
 import java.text.Normalizer
 
